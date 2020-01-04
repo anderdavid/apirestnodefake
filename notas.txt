@@ -1,0 +1,10 @@
+#instalar express
+npm init
+npm install express --save
+npm install express
+
+#instalar mysql
+npm install mysql
+
+#tutoriales
+https://code.tutsplus.com/es/tutorials/code-your-first-api-with-nodejs-and-express-connect-a-database--cms-31699
